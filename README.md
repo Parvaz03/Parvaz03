@@ -86,11 +86,11 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/parvaz0303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvaz0303&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/Parvaz03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parvaz03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/parvaz0303">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvaz0303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/Parvaz03">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parvaz03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -101,7 +101,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=parvaz0303&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Parvaz03&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -111,7 +111,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Parvaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parvaz0303&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Parvaz's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parvaz03&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -121,7 +121,7 @@ print(me.motto())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=parvaz0303&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Parvaz03&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -154,7 +154,7 @@ print(me.motto())
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |:---:|:---:|:---|
-| [**🎬 Netflix Recommendation System**](https://github.com/parvaz0303) | Python · Scikit-learn · Pandas · Cosine Similarity | Built on 10,000+ movie records · Cosine similarity engine · **85% recommendation accuracy** · **30% latency reduction** |
+| [**🎬 Netflix Recommendation System**](https://github.com/Parvaz03) | Python · Scikit-learn · Pandas · Cosine Similarity | Built on 10,000+ movie records · Cosine similarity engine · **85% recommendation accuracy** · **30% latency reduction** |
 
 </div>
 
@@ -206,10 +206,10 @@ print(me.motto())
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/parvaz-imamudeen)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/parvaz0303)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:parvaz0303@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Parvaz03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Parvaz03@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=parvaz0303&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Parvaz03&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
